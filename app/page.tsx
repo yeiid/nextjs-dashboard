@@ -42,7 +42,7 @@ export default function Page() {
           alt='screenma'/>
           <Image
           width={1000} 
-          height={1000}
+          height={760}
           className='block md:hidden'
           src={mobile}
           alt='screenma'/>
