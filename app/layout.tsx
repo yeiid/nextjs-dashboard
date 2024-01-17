@@ -10,7 +10,6 @@ export default function RootLayout({
     <html lang="en">
       
       <body className={`${montserrat.className} antialiased`}>
-        esto es parte del layaout
         {children}
         </body>
     </html>
